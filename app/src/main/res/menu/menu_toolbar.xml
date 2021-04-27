@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/delete_all"
+        android:title="@string/action_delete_all" />
+    <item android:id="@+id/orderBy"
+        android:title="@string/order_by" >
+        <menu>
+            <item android:id="@+id/ob_date_time"
+                android:title="@string/date_and_time" />
+            <item android:id="@+id/ob_name"
+                android:title="Name" />
+        </menu>
+    </item>
+</menu>

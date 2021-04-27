@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">mobweb_hf_calorie</string>
+    <string name="calorie_list">Calorie List</string>
+    <string name="details">Details</string>
+    <string name="new_calorie_item">New Calorie Event</string>
+    <string name="edit_calorie_item">Edit Calorie Event</string>
+    <string name="ok">OK</string>
+
+    <string name="name">Calorie Event Name</string>
+    <string name="description">Description</string>
+    <string name="calorie_count">Calorie Count</string>
+    <string name="type">Type of Activity</string>
+    <string-array name="activity_types">
+        <item>Workout</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+    <string name="action_delete_all">Delete All</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diagram">Diagram</string>
+    <string name="time">Time (h:m)</string>
+    <string name="export_to_calendar">Export To Calendar</string>
+    <string name="permission_denied_write_calendar">Calendar write permission denied.</string>
+    <string name="calendar_write_permission_explanation">The app can\'t insert events into your calendar without your explicit intention</string>
+    <string name="proceed">Proceed</string>
+    <string name="exit">Exit</string>
+    <string name="rationale_dialog_title">Permission needed</string>
+    <string name="contacts_permission_explanation">Calendar permission is needed from the user for this feature to work</string>
+    <string name="list_activity_label">Your List of Calorie Events</string>
+    <string name="main_activity_label">Calorie Counter</string>
+    <string name="details_activity_label">Description and Week Diagram</string>
+    <string name="order_by">Order By</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="web">Web</string>
+    <string name="areyousure">Are you sure you want to delete all items?</string>
+    <string name="cancel">Cancel</string>
+    <string name="cal_events">calorie-events</string>
+    <string name="newcalevDL_not_impl">Activity must implement the NewCalorieEventDialogListener interface!</string>
+    <string name="editcalevDL_not_impl">Activity must implement the EditCalorieEventDialogListener interface!</string>
+    <string name="invalid_creation">Filling out name and calorie count is mandatory</string>
+    <string name="cal_count">Calorie Count</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="edit">Edit</string>
+</resources>
